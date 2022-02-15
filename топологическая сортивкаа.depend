@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620738878 source:g:\Проекты кодблокс\топологическая сортивкаа\main.cpp
+	<iostream>
+	<list>
+	<stack>
+	<vector>
+	<fstream>
+	<locale.h>
+
